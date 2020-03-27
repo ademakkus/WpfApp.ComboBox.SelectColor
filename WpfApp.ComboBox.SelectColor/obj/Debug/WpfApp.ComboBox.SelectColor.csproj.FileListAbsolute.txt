@@ -1,0 +1,14 @@
+C:\Users\mypc\source\repos\WpfApp.ComboBox.SelectColor\WpfApp.ComboBox.SelectColor\bin\Debug\WpfApp.ComboBox.SelectColor.exe.config
+C:\Users\mypc\source\repos\WpfApp.ComboBox.SelectColor\WpfApp.ComboBox.SelectColor\bin\Debug\WpfApp.ComboBox.SelectColor.exe
+C:\Users\mypc\source\repos\WpfApp.ComboBox.SelectColor\WpfApp.ComboBox.SelectColor\bin\Debug\WpfApp.ComboBox.SelectColor.pdb
+C:\Users\mypc\source\repos\WpfApp.ComboBox.SelectColor\WpfApp.ComboBox.SelectColor\obj\Debug\MainWindow.g.cs
+C:\Users\mypc\source\repos\WpfApp.ComboBox.SelectColor\WpfApp.ComboBox.SelectColor\obj\Debug\App.g.cs
+C:\Users\mypc\source\repos\WpfApp.ComboBox.SelectColor\WpfApp.ComboBox.SelectColor\obj\Debug\WpfApp.ComboBox.SelectColor_MarkupCompile.cache
+C:\Users\mypc\source\repos\WpfApp.ComboBox.SelectColor\WpfApp.ComboBox.SelectColor\obj\Debug\WpfApp.ComboBox.SelectColor_MarkupCompile.lref
+C:\Users\mypc\source\repos\WpfApp.ComboBox.SelectColor\WpfApp.ComboBox.SelectColor\obj\Debug\MainWindow.baml
+C:\Users\mypc\source\repos\WpfApp.ComboBox.SelectColor\WpfApp.ComboBox.SelectColor\obj\Debug\WpfApp.ComboBox.SelectColor.g.resources
+C:\Users\mypc\source\repos\WpfApp.ComboBox.SelectColor\WpfApp.ComboBox.SelectColor\obj\Debug\WpfApp.ComboBox.SelectColor.Properties.Resources.resources
+C:\Users\mypc\source\repos\WpfApp.ComboBox.SelectColor\WpfApp.ComboBox.SelectColor\obj\Debug\WpfApp.ComboBox.SelectColor.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\WpfApp.ComboBox.SelectColor\WpfApp.ComboBox.SelectColor\obj\Debug\WpfApp.ComboBox.SelectColor.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\WpfApp.ComboBox.SelectColor\WpfApp.ComboBox.SelectColor\obj\Debug\WpfApp.ComboBox.SelectColor.exe
+C:\Users\mypc\source\repos\WpfApp.ComboBox.SelectColor\WpfApp.ComboBox.SelectColor\obj\Debug\WpfApp.ComboBox.SelectColor.pdb
